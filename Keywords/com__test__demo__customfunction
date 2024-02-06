@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "4E52210C04722249CDDA4C71D588E5FB",
+  "keywordClasses": [
+    {
+      "name": "com.test.demo.customfunction",
+      "keywordMethods": [
+        {
+          "name": "printhello",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
